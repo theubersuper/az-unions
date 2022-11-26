@@ -7,3 +7,4 @@ It is a working, mobile-first, fully responsive static HTML webpage cloned from 
 I really enjoyed creating it, and it's an example of what I can do for you!
 
 Please contact me, as I'd love to discuss how I can serve your department's Drupal Arizona Quickstart needs.  (Clark Machamer- theubersuper at gmail.com)  Thanks!
+
