@@ -9,6 +9,6 @@
 * All links on the page actually connect to the current, functioning webpages of their respective departments;
 * The embedded video presentation works in page, and the Instagram feed updates per the most recent posts;
 * When producing it, I limited my customizations to the use of CKEditor within Quickstart's existing paragraph types, as I wanted to build the page from the   perspective of a content creator (instead of a developer) to see what was possible with the existing theme;
-* I really enjoyed creating it, and it taught me to appreciate both the flexibility and power of Drupal;
+* I really enjoyed creating it, and it taught me to appreciate both the flexibility and power of Drupal
 
 **_Designed by Clark Machamer in Nov. 2022 - theubersuper(at)gmail(dot)com_**
